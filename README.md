@@ -10,5 +10,7 @@ colorama (using 0.4.4)
 
 # Contact
 Youtube: https://www.youtube.com/channel/UC6o8vZttsWTPlu-kxjc62_A
+
 Discord: https://discord.gg/ycbHv5yVMV
+
 Website: https://piggeh.uwu.ai
